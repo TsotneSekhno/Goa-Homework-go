@@ -2,7 +2,7 @@ age = int(input("enter yout age: "))#16
 print(age<20 and age >12)
 
 page = float(input("Enter first number: "))#2.5
-page1 = int(input("Enter second number: "))#10
+#10
 print(page * page1)
 
 number = int(input("enter number: "))#108
