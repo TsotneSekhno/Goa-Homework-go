@@ -20,7 +20,7 @@ while i < 20:
     print(i)
     i+= 2
 
-i = 10
+i = 10     #5
 while i < 60:
     print(i)
     i+=5

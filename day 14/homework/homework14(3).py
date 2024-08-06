@@ -4,7 +4,7 @@ while i < 51:
     i+=5
 
 
-n2=-5
+n2=-5     #2
 for i in range(11):
     n2=n2+5
     print(n2)

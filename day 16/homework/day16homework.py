@@ -1,10 +1,4 @@
 
-
-
-#5) ცვლადში შეინახეთ თქვენი გვარი. გამოიყენეთ 
-# indexing და მისი თითოეული ასო დაბეჭდეთ.
-
-
 name = ['tato', 'mari', 'nino', 'misha']   #1
 
 
@@ -48,7 +42,7 @@ print(bin)
 
 
 
-b1=input("surname :")
+b1=input("surname :")       #5
 
 
 print(b1[0])

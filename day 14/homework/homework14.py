@@ -14,7 +14,7 @@ for x in cars:
 for i in range(12,20): #4
     print(i)
 
-x=0
+x=0                  #5
 for i in range(5):
    x=x+5
    print(x)

@@ -42,7 +42,7 @@ else:
   print("goa")
 
 
-adj = ["red", "big", "tasty"]
+adj = ["red", "big", "tasty"]        #10
 fruits = ["apple", "banana", "cherry"]
 
 for x in adj:
