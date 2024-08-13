@@ -1,0 +1,19 @@
+body{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20231230/pngtree-gray-and-white-textured-tones-image_13859930.png");
+}
+h1{
+    text-align: center;
+    text-shadow:  1px 1px #2e2e2e;
+    font-weight: 700;
+}
+img{
+    float: right;
+    width:300px;
+    height:300px;
+    border-radius: 5px;
+}
+
+ul{
+   font-weight: 700;
+   
+}
