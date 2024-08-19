@@ -1,0 +1,14 @@
+table{  
+    width:100%  
+}
+
+th{
+    background-color: rgb(1, 221, 1);
+    color: rgb(255, 255, 255);
+    
+}
+
+tr:nth-child(odd) {
+    background-color: rgb(221, 221, 221);
+  }
+
