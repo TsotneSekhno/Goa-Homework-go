@@ -1,0 +1,46 @@
+
+body{
+    background-image: url(https://www.color-meanings.com/wp-content/uploads/Yellow-and-green-mixed.jpeg);
+}
+
+h1{
+    color: darkslategray;
+    text-align: center;
+}
+
+.a{
+    display: flex;
+    background-image: url(https://t4.ftcdn.net/jpg/01/46/44/65/360_F_146446548_AXrqoktghXiRvbSsZVE7d0GXEzpQw8hw.jpg);
+   justify-content: center;
+}
+
+.a > div {
+    background-color: #f1f1f1;
+    height: 400px;
+    width: 400px;
+    margin: 30px;
+    text-align: center;
+    line-height: 400px;
+    font-size: 50px;
+  }
+
+
+.b{
+    color: #ffffff;
+    background-image:url(https://i.pinimg.com/236x/dc/d4/0d/dcd40d9a7f9cf6a52e6cd4b2b93b15f6.jpg) ;
+    width: 100%;
+} 
+
+.c{
+    color: #ffffff;
+    background-image: url(https://models.bestmodelsagency.com/recursos/clientes/F31110A5-6133-4F2E-96A8-927FA9485371/list.jpg?v1589811317?202203111855);
+    width: 100%
+    
+}
+    
+
+.d{
+    color: #ffffff;
+    background-image: url(https://i.etsystatic.com/11463421/r/il/2007e2/3546997770/il_570xN.3546997770_6da9.jpg);
+    width: 100%
+}
