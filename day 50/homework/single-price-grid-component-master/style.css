@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(103, 15, 218);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+main{
+    justify-content: space-between;
+    width: 500px;
+    height: 500px;
+    padding: 40px;
+}
+h1{
+    color: hsl(179, 62%, 43%);
+}
+h2{
+    color: white;
+}
+h3{
+    color: white;
+}
+.a{
+    color: hsl(71, 73%, 54%)
+
+}
+.b{
+    color: hsl(218, 22%, 67%)
+}
+.d{
+    color:white;
+}
+.e{
+    color: white;
+}
+.f{
+    color:white
+
+}
+.g{
+    color: hsl(218, 22%, 67%)
+}
+
+
