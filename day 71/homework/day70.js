@@ -1,0 +1,5 @@
+Math.round(4.5)
+Math.ceil(-58.9)
+Math.floor(-66.6)
+Math.trunc(47.3)
+Math.sign(-90)
